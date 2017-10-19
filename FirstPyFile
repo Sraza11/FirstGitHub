@@ -1,2 +1,8 @@
 print "this is test file"
 #this is test file
+test = 1
+print(test)
+test2 = test1 * 2
+
+print (test2)
+#
